@@ -1,8 +1,8 @@
 * Spring 2020 - Lab 06
 
-* Last name:
+* Last name: Zamansky
 
-* First name:
+* First name: Mike
 
 * GitHub username:
 
