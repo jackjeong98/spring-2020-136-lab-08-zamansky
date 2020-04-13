@@ -2,6 +2,7 @@
 
 * Addd newfeature
 
+* Added another new feature 
 * Last name: Zamansky
 
 * First name: Mike
