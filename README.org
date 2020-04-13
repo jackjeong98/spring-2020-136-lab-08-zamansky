@@ -36,6 +36,7 @@ parameter - string representing the filename. See *sample-main.cpp*
 and *sample-Makefile* for sample use.
 
 * Extra files
+Jason C
 
 - imagehelpers.cpp, imagehelpers.h - functions to load and save
   images. Similar to what is provided in the main lab but accepts a
